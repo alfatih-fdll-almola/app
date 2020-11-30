@@ -1,4 +1,6 @@
 ﻿<html>
+<head>
+<link rel="stylesheet" type="text/css" herf="style.css">
 <body>
 <img src="tt2.jpg"width="150"hight="230"style="float:right;"><img src="dd.jpg"width="150"hight="230">
 <body style="background-image:url('bb.jpg')">
